@@ -1,6 +1,6 @@
 <div align="center">
 </br>
-<img src="./fastlane/metadata/android/en-US/images/logo/logo.png" width="200" />
+<img src="C:\Users\HP\OneDrive\Desktop\CL205\WhatsApp Image 2025-05-08 at 11.00.25_2d33a277.jpg" width="200" />
 
 </div>
 
