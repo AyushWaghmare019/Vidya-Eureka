@@ -1,6 +1,7 @@
 <div align="center">
 <br>
-<img src="C:\Users\HP\OneDrive\Desktop\CL205\WhatsApp Image 2025-05-08 at 11.00.25_2d33a277.jpg" width="200" />
+<img src="https://raw.githubusercontent.com/your-username/your-repo/main/WhatsApp%20Image%202025-05-08%20at%2011.00.25_2d33a277.jpg" width="200" />
+
 </div>
 
 <div align="center">
